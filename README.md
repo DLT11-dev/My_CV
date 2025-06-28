@@ -7,9 +7,10 @@ Hi! I'm Thao, a passionate **Full Stack Developer** with expertise in both front
 ## Contact Information
 
 - **Name:** Do Le Thao
-- **Email:** dolethao112000.com
+- **Email:** dolethao112000@gmail.com
 - **Phone:** 0978841380
 - **Location:** Thuong Tin, Ha Noi
+- **Website:** https://dolethao.github.io/My_CV/
 - **LinkedIn:** 
 - **GitHub:** https://github.com/dolethao
 
@@ -43,15 +44,21 @@ Hi! I'm Thao, a passionate **Full Stack Developer** with expertise in both front
 📱 **Mobile-First Design:** Ensuring optimal experience across all devices  
 🚀 **Performance Optimization:** Making websites fast and efficient  
 
+## 🌐 Live Demo
+
+**View my CV website:** https://dolethao.github.io/My_CV/
+
 ## Featured Projects
 
 This repository contains my personal CV website showcasing my skills, experience, and projects. The website is built with modern web technologies and features:
 
 - Responsive design that works on all devices
-- Interactive portfolio gallery
+- Interactive portfolio gallery with real projects
 - Contact form functionality
 - Smooth scrolling and animations
 - SEO optimized
+- Professional resume section
+- Skills showcase with progress bars
 
 ## Technologies Used in This Project
 
@@ -79,7 +86,8 @@ cd My_CV
 
 I'm always interested in discussing new opportunities, collaborating on projects, or simply connecting with fellow developers. Feel free to reach out!
 
-📧 **Email:** dolethao112000@gmail.com 
+🌐 **Website:** https://dolethao.github.io/My_CV/
+📧 **Email:** dolethao112000@gmail.com  
 📱 **Phone:** 0978841380
 
 ---
