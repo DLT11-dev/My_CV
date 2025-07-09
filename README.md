@@ -12,7 +12,7 @@ Hi! I'm Thao, a passionate **Full Stack Developer** with expertise in both front
 - **Location:** Thuong Tin, Ha Noi
 - **Website:** https://dlt11-dev.github.io/My_CV/
 - **LinkedIn:** 
-- **GitHub:** https://github.com/dolethao
+- **GitHub:** https://github.com/DLT11-dev
 
 ## Technical Skills
 
@@ -46,7 +46,7 @@ Hi! I'm Thao, a passionate **Full Stack Developer** with expertise in both front
 
 ## 🌐 Live Demo
 
-**View my CV website:** https://dolethao.github.io/My_CV/
+**View my CV website:** https://dlt11-dev.github.io/My_CV/
 
 ## Featured Projects
 
