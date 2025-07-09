@@ -10,7 +10,7 @@ Hi! I'm Thao, a passionate **Full Stack Developer** with expertise in both front
 - **Email:** dolethao112000@gmail.com
 - **Phone:** 0978841380
 - **Location:** Thuong Tin, Ha Noi
-- **Website:** https://dolethao.github.io/My_CV/
+- **Website:** https://dlt11-dev.github.io/My_CV/
 - **LinkedIn:** 
 - **GitHub:** https://github.com/dolethao
 
@@ -86,7 +86,7 @@ cd My_CV
 
 I'm always interested in discussing new opportunities, collaborating on projects, or simply connecting with fellow developers. Feel free to reach out!
 
-🌐 **Website:** https://dolethao.github.io/My_CV/
+🌐 **Website:** https://dlt11-dev.github.io/My_CV/
 📧 **Email:** dolethao112000@gmail.com  
 📱 **Phone:** 0978841380
 
